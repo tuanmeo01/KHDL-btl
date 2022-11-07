@@ -2,14 +2,13 @@
 <h2>Cấu trúc folder đồ án</h2>
 
 - **images:** chứa các hình ảnh screenshot
-- **Rating:** chứa file **code** và **dataset** của **bài toán 2**
+- **Rating:** chứa file **code** và **dataset** của **bài toán**
 - **README.MD:** chứa báo cáo đồ án
 <h2>1. Thành viên nhóm và phân công</h2>
 
 * Thành viên
   - Nguyễn Văn Tuấn B19DCCN616
-  - Phan Thanh Hải B19DCCNxxx
-* Phân công:
+  - Phan Thanh Hải B19DCCN219
 
 <h2>2. Tổng quan đồ án</h2>
 
