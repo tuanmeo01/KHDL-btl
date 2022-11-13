@@ -4,7 +4,7 @@
 - **Chotot:** chứa file **code** và **datasdet** của **bài toán **
 - **images:** chứa các hình ảnh screenshot
 - **README.MD:** chứa báo cáo bài tập lớn
-<h2>1. Thành viên nhóm và phân công</h2>
+<h2>1. Thành viên nhóm</h2>
 
 * Thành viên
 
