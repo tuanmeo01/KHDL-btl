@@ -80,10 +80,6 @@
     - Độ trung bình sai lệch: ![data](./images/rating_data5.png)
       &#8594; **Nhận xét:** Sai lệch trung bình của dataset là khoảng **77355 usd**
 
-  - **Train tập dữ liệu với thuật toán Logistic Regression và Linear Regression:**
-    - Ý tưởng: Chia giá tiền các căn chung cư thành 4 mức giá từ thấp -> cao và thực hiện logis data dựa theo mức rank này. Mỗi data test được đưa vào sẽ được phân loại vào 1 trong 4 mức kể trên . Từ đó lựa chọn mô hình linear phù hợp để chạy thuật toán dự đoán cho ra kq tốt nhất
-    - Chi tiết được trình bày trong file code Predict.ipynb
-
 <h2>4. Hướng dẫn chạy các file code</h2>
 
 - **Bài toán: Dự đoán giá nhà**
